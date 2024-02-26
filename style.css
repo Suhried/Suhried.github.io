@@ -289,7 +289,7 @@ section {
 
 .about-pic {
   border-radius: 2rem;
-  /* margin-top: 50px; */
+  margin-top: 50px;
 }
 
 .arrow {
@@ -317,6 +317,7 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
+  
 }
 
 /* EXPERIENCE SECTION */
